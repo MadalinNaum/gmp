@@ -1,0 +1,30 @@
+{
+  "name": "gmp",
+  "version": "1.0.0",
+  "description": "gmp test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-cmd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadalinNaum/gmp.git"
+  },
+  "keywords": [
+    "gmp",
+    "test"
+  ],
+  "author": "Madalin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MadalinNaum/gmp/issues"
+  },
+  "homepage": "https://github.com/MadalinNaum/gmp#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "bootstrap": "^4.3.1",
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
